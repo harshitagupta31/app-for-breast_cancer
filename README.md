@@ -1,2 +1,3 @@
-# app-for-breast_cancer
-App of prediction for breast cancer
+
+# Breast-Cancer-Detection-App
+ Breast Cancer Detection App Using Machine Learning XGBoost Classifier
